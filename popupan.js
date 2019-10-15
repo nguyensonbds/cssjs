@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://www.teamseobinhduong.com/';
+	var url_popup = 'https://chienthuatmarketingonlinebatdongsan.blogspot.com/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://www.teamseobinhduong.com/';
+	  // var url_ppp = 'https://chienthuatmarketingonlinebatdongsan.blogspot.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
